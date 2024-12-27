@@ -1,2 +1,3 @@
 # ChatWithYourDocuments
-Chat with your documents using NLP. Upload various document formats, ask questions, and get contextual answers powered by advanced language models.
+Chat with your documents using NLP. It is a user-friendly interface where users can upload their documents and interact with them via natural language queries.
+
