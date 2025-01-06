@@ -6,3 +6,4 @@ python-dotenv
 fastembed
 faiss-cpu
 faiss-gpu
+gradio
